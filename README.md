@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a happy developer!😄<br>I want to be the professional version of myself!
+I'm Mohammad Omidi, an Android developer who uses Kotlin and is striving for the best! I'm a motivated programmer who never backs down and is ready to take on many new challenges, embedding them deep into my experiences. 😉😁
 
 
 ## 🌐 Socials:
